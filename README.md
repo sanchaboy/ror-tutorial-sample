@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ruby on Rails チュートリアルのサンプルアプリケーション
 
 これは、次の教材で作られたサンプルアプリケーションです。   
@@ -65,3 +66,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# ror-tutorial-sample
+This app is sample about chapter3 - chapter14 of the Ruby on Rails Tutorial
+>>>>>>> origin/master
